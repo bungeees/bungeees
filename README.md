@@ -1,9 +1,9 @@
 ### My stats
 
 <p align= "">
-  <img align= "" src=https://github-readme-stats.vercel.app/api?username=bungees&show_icons=true&theme=graywhite)>
+  <img align= "" src=https://github-readme-stats.vercel.app/api?username=bungeees&show_icons=true&theme=graywhite)>
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bungees&theme=graywhite&langs_count=8)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bungeees&theme=graywhite&langs_count=8)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852942542932541453)](https://discord.com/users/852942542932541453)
 
