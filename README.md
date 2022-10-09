@@ -7,7 +7,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/852942542932541453)](https://discord.com/users/852942542932541453)
 
-## 📜 xVnukz Profile
+## 📜 Bungees Profile
 
 - Experienced programmer focused on his work 
 - Not well known but also not interested in being
