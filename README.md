@@ -1,7 +1,8 @@
 ### Introduction
 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF755&random=false&width=435&lines=Full+Stack+Developer;3%2B+years+of+experience+in+the+area;Quick+fox+jumps+nightly+above+wizard;Contact+me+in+discord+for+more+info)](https://git.io/typing-svg)
-
+<p/>
 
 ### My stats
 
